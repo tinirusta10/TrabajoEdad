@@ -1,0 +1,11 @@
+C:\Users\MARTIN\source\repos\EDAD\EDAD\bin\Debug\EDAD.exe.config
+C:\Users\MARTIN\source\repos\EDAD\EDAD\bin\Debug\EDAD.exe
+C:\Users\MARTIN\source\repos\EDAD\EDAD\bin\Debug\EDAD.pdb
+C:\Users\MARTIN\source\repos\EDAD\EDAD\obj\Debug\EDAD.csproj.AssemblyReference.cache
+C:\Users\MARTIN\source\repos\EDAD\EDAD\obj\Debug\EDAD.csproj.SuggestedBindingRedirects.cache
+C:\Users\MARTIN\source\repos\EDAD\EDAD\obj\Debug\EDAD.Form1.resources
+C:\Users\MARTIN\source\repos\EDAD\EDAD\obj\Debug\EDAD.Properties.Resources.resources
+C:\Users\MARTIN\source\repos\EDAD\EDAD\obj\Debug\EDAD.csproj.GenerateResource.cache
+C:\Users\MARTIN\source\repos\EDAD\EDAD\obj\Debug\EDAD.csproj.CoreCompileInputs.cache
+C:\Users\MARTIN\source\repos\EDAD\EDAD\obj\Debug\EDAD.exe
+C:\Users\MARTIN\source\repos\EDAD\EDAD\obj\Debug\EDAD.pdb
